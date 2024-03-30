@@ -3,7 +3,7 @@ Multilinear Operator Networks
 
 This is a PyTorch implementation of the ICLR'24 paper [Multilinear Operator Networks](https://arxiv.org/abs/2401.17992).
 
-====================
+
 
 ## Usage
 
