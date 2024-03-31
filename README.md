@@ -13,6 +13,7 @@ This is a PyTorch implementation of the ICLR'24 paper [Multilinear Operator Netw
 - PyTorch version: 1.13.1 + and CUDA version: 11.7
 - timm version: 0.9.13dev0
 - einops and fvcore
+  
 You can also install through
 ```
 pip install -r requirements.txt
