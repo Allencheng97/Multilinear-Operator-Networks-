@@ -251,7 +251,7 @@ def _create_improved_MONet(variant, pretrained=False, **kwargs):
         **kwargs)
     return model
 
-
+#Multi-Stage MONet, design for ImageNet Resolution Image
 @register_model
 def MONet_T(pretrained=False, **kwargs):
     transitions = [True, True, True, True]
